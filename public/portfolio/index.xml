@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Alison Wilbur</title>
+    <link>https://acwilb.github.io/Portfolio/portfolio/</link>
+    <description>Recent content in Portfolios on Alison Wilbur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Mar 2024 19:41:01 +0530</lastBuildDate>
+    <atom:link href="https://acwilb.github.io/Portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Text Mining: Pitchfork Reviews</title>
+      <link>https://acwilb.github.io/Portfolio/portfolio/pitchfork/</link>
+      <pubDate>Sat, 23 Mar 2024 19:41:01 +0530</pubDate>
+      <guid>https://acwilb.github.io/Portfolio/portfolio/pitchfork/</guid>
+      <description>&lt;p&gt;Used sentiment analysis, latent dirichlet allocation, cluster analysis, predictive modeling, and other text mining methodologies to understand the relationship between the content of an album review and the album&amp;rsquo;s ranking on Pitchfork.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predictive Modeling: Classifying Alcoholic Status</title>
+      <link>https://acwilb.github.io/Portfolio/portfolio/alcpred/</link>
+      <pubDate>Fri, 15 Dec 2023 19:57:40 +0530</pubDate>
+      <guid>https://acwilb.github.io/Portfolio/portfolio/alcpred/</guid>
+      <description>&lt;p&gt;Used random forest, gradient boosting, principal component analysis, logistic regression, and neural net models to select the best classification model to predict the Alcoholic Status of an individual based on their vital signs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Digital Humanities: Combining Data Science with Qualitative Research</title>
+      <link>https://acwilb.github.io/Portfolio/portfolio/dgthum/</link>
+      <pubDate>Wed, 20 Mar 2024 19:44:32 +0530</pubDate>
+      <guid>https://acwilb.github.io/Portfolio/portfolio/dgthum/</guid>
+      <description>&lt;p&gt;Used web scraping, classification models, and text mining, combined with qualitative research, in a web-based digital presentation (Wordpress website) that explores the societal implications of the emergence of the Hip Hop genre.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Statistical Consulting: Identifying Trends in High School Students&#39; Perceptions of Drugs</title>
+      <link>https://acwilb.github.io/Portfolio/portfolio/consulting/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <guid>https://acwilb.github.io/Portfolio/portfolio/consulting/</guid>
+      <description>&lt;p&gt;Worked with real-world clients on a statistical consulting problem for UCLA statistics capstone course.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Netflix Streaming Interactive Dashboard</title>
+      <link>https://acwilb.github.io/Portfolio/portfolio/netflixdash/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      <guid>https://acwilb.github.io/Portfolio/portfolio/netflixdash/</guid>
+      <description>&lt;p&gt;Designed interactive dashboard in Tableau using large dataset of all shows and movies available on Netflix in 2019.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hulu Streaming Interactive Dashboard</title>
+      <link>https://acwilb.github.io/Portfolio/portfolio/huludash/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <guid>https://acwilb.github.io/Portfolio/portfolio/huludash/</guid>
+      <description>&lt;p&gt;Designed interactive dashboard in Tableau using large dataset of all shows available on Hulu.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
