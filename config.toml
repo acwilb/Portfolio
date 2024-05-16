@@ -5,7 +5,7 @@ languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "G-6YWLR51997"
+googleAnalytics = "G-##########"
 
 canonifyURLs = true
 
@@ -16,8 +16,8 @@ canonifyURLs = true
   description = "Data Science portfolio"
   copyright = "&copy;2024 Alison Wilbur"
   sidebarAbout = [
-    "I am a recent UCLA Statistics and Data Science graduate with a passion for the intersection of Data Science and Entertainment.",
-    "Currently based in Los Angeles."
+    "I am a recent UCLA Statistics and Data Science graduate with a passion for leveraging data to drive impactful changes.",
+    "Currently based in San Francisco, CA."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
